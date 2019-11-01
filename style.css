@@ -1,0 +1,88 @@
+.beige-background-color {
+  background-color: beige !important;
+}
+
+.site-background {
+  background-image: url("https://www.tokkoro.com/picsup/3101847-acoustic_classic_entertainment_fingerboard_folk_fretboard_hawaiian_instrument_leisure_music_musical_snail_song_strings_traditional_ukes_ukulele_vintage_wood.jpg");
+  height: 3100px;
+  color: white;
+}
+
+.site-background-shorter {
+  background-image: url("https://www.tokkoro.com/picsup/3101847-acoustic_classic_entertainment_fingerboard_folk_fretboard_hawaiian_instrument_leisure_music_musical_snail_song_strings_traditional_ukes_ukulele_vintage_wood.jpg");
+  height: 700px;
+  color: white;
+}
+
+.site-background-short {
+  background-image: url("https://www.tokkoro.com/picsup/3101847-acoustic_classic_entertainment_fingerboard_folk_fretboard_hawaiian_instrument_leisure_music_musical_snail_song_strings_traditional_ukes_ukulele_vintage_wood.jpg");
+  height: 1200px;
+  color: white;
+}
+
+h1 {
+  text-align: center;
+  margin-top: 10px;
+  color: maroon;
+  font-family: 'Mansalva';
+  font-size: large;
+}
+
+h2 {
+  text-align: center;
+  margin-top: 10px;
+  color: maroon;
+  font-family: 'Times New Roman';
+  font-style: italic;
+  font-size: xx-large;
+}
+
+h3 {
+  text-align: center;
+  margin-top: 80px;
+  color: maroon;
+  font-family: 'Satisfy';
+  font-size: larger;
+}
+
+h4 {
+  text-align: center;
+  margin-top: 10px;
+  color: maroon;
+  font-family: 'Times New Roman';
+  font-style: normal;
+  font-size: 55px;
+}
+
+#navbar {
+  top: 0;
+  position: relative;
+  width: 100%;
+}
+
+.tan-background {
+  background-color: tan;
+  height: 220px;
+}
+
+.footer-background {
+  background-color: #292929;
+  color: white;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  margin-top: 25px;
+  height: 200px;
+}
+
+.highlight {
+  background-color: rgba(255,255,255,0.5);
+}
+
+.standard {
+  background-color: beige;
+  font-size: large;
+}
+
+p {
+  color: black;
+}
