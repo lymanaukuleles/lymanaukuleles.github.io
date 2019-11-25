@@ -52,7 +52,7 @@ h4 {
 
 .tan-background {
   background-color: tan;
-  background-image: url(".idea/img/wave.jpg") !important;
+  background-image: url("img/wave.jpg") !important;
   height: 220px;
 }
 
